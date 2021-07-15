@@ -60,9 +60,9 @@
 
 이 소스구조에는 3개의 디렉토리가 있습니다.  
 
-	> dataset: 5개의 클래스가 포함되어 있으며, 각 클래스는 클래스 레이블을 쉽게 구분할 수 있도록 되어있습니다.  
-	> examples: CNN을 테스트하는 데 사용할 이미지가 포함되어 있습니다.  
-	> module: `SmallerVGGNet` model class가 포함된 폴더
+> dataset: 5개의 클래스가 포함되어 있으며, 각 클래스는 클래스 레이블을 쉽게 구분할 수 있도록 되어있습니다.  
+> examples: CNN을 테스트하는 데 사용할 이미지가 포함되어 있습니다.  
+> module: `SmallerVGGNet` model class가 포함된 폴더
 	
 그외 파일  
 
