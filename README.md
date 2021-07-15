@@ -66,11 +66,11 @@
 	
 그외 파일  
 
-	> plot.png: train.py가 실행된 후 생성되는 train/test accuracy 및 loss plot  
-	> lb.pickle: `labelBinarizer`가 직렬화된 개체파일(여기에는 클래스 이름 조회 매커니즘에 대한 클래스 인덱스가 포함)
-	> pokedex.model : 직렬화된 Keras Convolutional Neural Network 모델 파일(즉, "가중치 파일")입니다.
-	> train.py: Keras CNN을 훈련하고 정확도/손실을 플롯한 다음 CNN과 레이블 이진화기를 디스크에 직렬화합니다.  
-	> classify.py : test script
+> plot.png: train.py가 실행된 후 생성되는 train/test accuracy 및 loss plot  
+> lb.pickle: `labelBinarizer`가 직렬화된 개체파일(여기에는 클래스 이름 조회 매커니즘에 대한 클래스 인덱스가 포함)
+> pokedex.model : 직렬화된 Keras Convolutional Neural Network 모델 파일(즉, "가중치 파일")입니다.
+> train.py: Keras CNN을 훈련하고 정확도/손실을 플롯한 다음 CNN과 레이블 이진화기를 디스크에 직렬화합니다.  
+> classify.py : test script
 
 
 ## 2. Keras and CNN architecture  
